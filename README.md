@@ -144,5 +144,3 @@ This project is for educational and demonstration purposes.
 It will automatically appear on the main page of your repo.
 
 ⸻
-
-If you want, I can also give you a much more impressive README (with diagrams and test architecture) that looks like professional test automation projects used in companies. 🚀

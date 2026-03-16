@@ -132,15 +132,6 @@ Santhanam Karuppusamy
 
 License
 
-This project is for educational and demonstration purposes.
-:::
-
-⸻
-
-✅ After creating this file:
-	1.	Save it as README.md
-	2.	Upload it to your GitHub repository
-
-It will automatically appear on the main page of your repo.
+This project is for educational purposes
 
 ⸻

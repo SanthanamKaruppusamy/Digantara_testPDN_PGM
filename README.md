@@ -1,14 +1,3 @@
-# Digantara_testPDN_PGM
-
-Here is a professional README.md file you can upload to your GitHub repository for this project.
-
-You can create a file called README.md and paste the following content.
-
-⸻
-
-:::writing{variant=“standard” id=“48261”}
-
-Power Distribution Automated Test Script
 
 Overview
 
